@@ -1,3 +1,11 @@
+https://stackify.com/docker-build-a-beginners-guide-to-building-docker-images/
+TO BUILD: docker build -t brogdonco/php-nginx .
+
+
+
+
+
+
 # Docker PHP-FPM 8.1 & Nginx 1.22 on Alpine Linux
 Example PHP-FPM 8.1 & Nginx 1.22 container image for Docker, built on [Alpine Linux](https://www.alpinelinux.org/).
 
