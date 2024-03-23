@@ -30,6 +30,8 @@ RUN apk add --no-cache \
   php83-pgsql \
   php83-pdo \
   php83-pdo_pgsql \
+  php83-sqlite3 \
+  php83-pdo_sqlite \
   supervisor
 
 # Configure nginx - http
